@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathTaskClassLibrary", "MathTaskClassLibrary\MathTaskClassLibrary.csproj", "{EAC6EF25-34EB-4050-B370-5374C58824A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathTaskClassLibrarysTests", "MathTaskClassLibrarysTests\MathTaskClassLibrarysTests.csproj", "{517C7C1E-C783-43BA-84CA-F431B263AE2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAC6EF25-34EB-4050-B370-5374C58824A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC6EF25-34EB-4050-B370-5374C58824A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC6EF25-34EB-4050-B370-5374C58824A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC6EF25-34EB-4050-B370-5374C58824A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{517C7C1E-C783-43BA-84CA-F431B263AE2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{517C7C1E-C783-43BA-84CA-F431B263AE2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{517C7C1E-C783-43BA-84CA-F431B263AE2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{517C7C1E-C783-43BA-84CA-F431B263AE2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F4EC4FE-DE92-4BCF-A84D-7AB7C1927A82}
+	EndGlobalSection
+EndGlobal

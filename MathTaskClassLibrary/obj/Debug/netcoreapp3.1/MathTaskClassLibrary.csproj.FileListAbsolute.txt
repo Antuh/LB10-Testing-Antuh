@@ -1,0 +1,10 @@
+D:\Programmirovanie\Program\MathTaskClassLibrary\MathTaskClassLibrary\bin\Debug\netcoreapp3.1\MathTaskClassLibrary.deps.json
+D:\Programmirovanie\Program\MathTaskClassLibrary\MathTaskClassLibrary\bin\Debug\netcoreapp3.1\MathTaskClassLibrary.dll
+D:\Programmirovanie\Program\MathTaskClassLibrary\MathTaskClassLibrary\bin\Debug\netcoreapp3.1\MathTaskClassLibrary.pdb
+D:\Programmirovanie\Program\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\netcoreapp3.1\MathTaskClassLibrary.csproj.AssemblyReference.cache
+D:\Programmirovanie\Program\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\netcoreapp3.1\MathTaskClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmirovanie\Program\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\netcoreapp3.1\MathTaskClassLibrary.AssemblyInfoInputs.cache
+D:\Programmirovanie\Program\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\netcoreapp3.1\MathTaskClassLibrary.AssemblyInfo.cs
+D:\Programmirovanie\Program\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\netcoreapp3.1\MathTaskClassLibrary.csproj.CoreCompileInputs.cache
+D:\Programmirovanie\Program\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\netcoreapp3.1\MathTaskClassLibrary.dll
+D:\Programmirovanie\Program\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\netcoreapp3.1\MathTaskClassLibrary.pdb
